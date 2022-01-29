@@ -1,3 +1,3 @@
 # BeginnerJiraProject
 
-## This is the first branch I created
+## This is the second branch I created
